@@ -4,4 +4,4 @@
 
 # License 
 
-This hardware is licensed under the [CERN OHL](https://cern-ohl.web.cern.ch/)
+This hardware is licensed under [CERN-OHL-W-2.0](https://cern-ohl.web.cern.ch/) - CERN Open Hardware License

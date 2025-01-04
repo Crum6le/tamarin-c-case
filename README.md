@@ -4,7 +4,7 @@
 
 # Printing 
 
-This case was tested in PETG on a anycubic i3 Mega
+This case was tested with PETG on a anycubic i3 Mega
 
 # License 
 

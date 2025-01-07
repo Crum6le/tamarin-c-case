@@ -6,18 +6,10 @@
 
 # Instructions / Recommendations
 
-This case was tested with PETG on a Anycubic i3 Mega.
+This case was tested with PETG on a Prusa i3 MK2S.
 
 ### Settings
-
-* Layer Height: 0.15mm
-* Wall Thickness: 0.8mm
-* Top/Bottom Thickness: 0.8mm
-* Infill: Gyroid 20% (does not matter, Not much infill with this Print)
-* Print Speed: 60mm/s
-* Top/Bottom Speed: 20mm/s
-* Support: None  
-* Build Plate Adhesion: Skirt (No Brim or Raft! Print has round edges wich may turn out bad)
+Tilting the print 15 degrees in x and y direction will create stronger walls and clear any warping problem that come with printing PETG. 
 
 These are the settings I used. They are probably not the best, but they worked for me.
 

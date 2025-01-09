@@ -2,23 +2,25 @@
 
 3D printable case for the [Tamarin C](https://github.com/stacksmashing/tamarin-c-hw).
 
-!!!! TODO: PICTURE HERE !!!!
+![Tamarin C Case picture](/images/assembled_top.jpg)
 
+More pictures can be found [here](/images/).
 # Instructions / Recommendations
 
-This case was tested with PETG on a Prusa i3 MK2S.
-
-### Settings
-Tilting the print 15 degrees in x and y direction will create stronger walls and clear any warping problem that come with printing PETG. 
-
-These are the settings I used. They are probably not the best, but they worked for me.
+This case was tested with PLA on a Prusa i3 MK2S.
 
 ### Assembly
 
-To assemble the case you need to put the PCB in to the Bottom half, it helps to put the USB Micro ahead and push down the opposite side. Finally close the Case with the lid.   
+To assemble the case you need to put the PCB in to the Bottom half, it helps to put the USB Micro ahead and push down the opposite side. Finally close the Case with the lid. The PCB should not be pressed into place it will fit easy if done right.
 
-!!!! TODO: PICTURE MANUAL HERE !!!!
+![Instructions 1/2](/images/manual_1.jpg)
 
+![Instructions 2/2](/images/manual_2.jpg)
+
+# ToDo
+
+* Lid can be wiggled
+* Slot for pin header is off about 1mm
 
 # License 
 

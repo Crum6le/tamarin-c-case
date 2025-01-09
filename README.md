@@ -1,31 +1,32 @@
-# Tamarin C case
+# Tamarin C Case
 
 3D printable case for the [Tamarin C](https://github.com/stacksmashing/tamarin-c-hw).
 
 ![Tamarin C Case picture](/images/assembled_top.jpg)
 
 More pictures can be found [here](/images/).
+
 # Instructions / Recommendations
 
 This case was tested with PLA on a Prusa i3 MK2S.
 
 ### Assembly
 
-To assemble the case you need to put the PCB in to the Bottom half, it helps to put the USB Micro ahead and push down the opposite side. Finally close the Case with the lid. The PCB should not be pressed into place it will fit easy if done right.
+To assemble the case, place the PCB into the bottom half. It helps to position the USB Micro end first and then gently press down the opposite side. Finally, close the case with the lid. The PCB should not need to be forced into place—it will fit easily if aligned correctly.
 
 ![Instructions 1/2](/images/manual_1.jpg)
 
 ![Instructions 2/2](/images/manual_2.jpg)
 
-# ToDo
+# To-Do
 
-* Lid can be wiggled
-* Slot for pin header is off about 1mm
+* Fix lid wiggle
+* Adjust slot for the pin header (currently off by ~1mm)
 
-# License 
+# License
 
-This hardware is licensed under [CERN-OHL-W-2.0](https://cern-ohl.web.cern.ch/) - CERN Open Hardware License
+This hardware is licensed under the [CERN-OHL-W-2.0](https://cern-ohl.web.cern.ch/) - CERN Open Hardware License.
 
-# Tanks
+# Thanks
 
-Thanks to [Stacksmashing](https://github.com/stacksmashing/) for giving away free [Tamarin C](https://github.com/stacksmashing/tamarin-c-hw) boards, making it possible for me to design the case.
+Thanks to [Stacksmashing](https://github.com/stacksmashing/) for providing free [Tamarin C](https://github.com/stacksmashing/tamarin-c-hw) boards at 37C3, making it possible for me to design this case.
